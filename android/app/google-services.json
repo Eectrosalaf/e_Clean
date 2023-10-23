@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "354721634884",
+    "project_id": "e-clean-be39a",
+    "storage_bucket": "e-clean-be39a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354721634884:android:5e383f95ca4211a33ffa11",
+        "android_client_info": {
+          "package_name": "com.example.e_clean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354721634884-kl66dsack44pb4330krui9vgbpbouufm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGzs8BVWwArROFgSuMd8PvGwkByZxyZ0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354721634884-kl66dsack44pb4330krui9vgbpbouufm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
